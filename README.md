@@ -1,2 +1,2 @@
 # Calculator
-For study underdtand some code.
+For study underdstand some code.
